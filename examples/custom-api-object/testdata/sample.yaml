@@ -1,0 +1,9 @@
+apiVersion: metals.example.org/v1alpha1
+kind: SpotPrice
+metadata:
+  name: sample
+  namespace: default
+spec:
+  symbol: AU
+  currency: EUR
+  unit: gram

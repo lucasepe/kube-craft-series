@@ -1,0 +1,23 @@
+go 1.21.5
+
+use (
+	./examples/gvk
+	./examples/plurals
+    ./examples/quantity
+    ./examples/scheme
+    ./examples/unstructured
+    ./examples/from-untructured-to-typed
+    ./examples/restconfig
+    ./examples/restmapper
+    ./examples/discoveryclient
+    ./examples/clientset
+    ./examples/restclient/create
+    ./examples/restclient/get
+    ./examples/restclient/list
+    ./examples/restclient/update
+    ./examples/restclient/patch
+    ./examples/restclient/delete
+    ./examples/dynamicclient
+    ./examples/custom-api-object
+    ./examples/custom-api-object-clients
+)

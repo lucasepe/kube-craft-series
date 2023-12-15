@@ -1,0 +1,30 @@
+## VSCode
+.vscode/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.dat
+*.DS_Store
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Goreleaser builds
+dist/**
+
+# Dot env files
+*.env
+**/*.env
+
+# Generated sample epubs
+**/*.epub
+
+# Go Workspace Stuffs
+go.work.sum

@@ -1,0 +1,10 @@
+module github.com/lucasepe/kube-craft-series/examples/quantity
+
+go 1.21.5
+
+require k8s.io/apimachinery v0.29.0
+
+require (
+	github.com/gogo/protobuf v1.3.2 // indirect
+	gopkg.in/inf.v0 v0.9.1 // indirect
+)
