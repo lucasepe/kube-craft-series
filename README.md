@@ -8,7 +8,8 @@ Each book is brimming with mind maps, acting as engaging visual companions that 
 
 ## _Vol. 1_ - Wished Condition: Mastering Kubernetes API Objects
 
-[![Free](https://img.shields.io/badge/free-ePUB-white?style=flat-square&labelColor=green)][1] &nbsp; [![Downloads](https://img.shields.io/github/downloads/lucasepe/kube-craft-series/latest/total?style=flat-square&labelColor=green&label=downloads&color=fff)][1]
+[![Free](https://img.shields.io/badge/free-ePUB-white?style=flat-square&labelColor=green)][1] &nbsp; [![Downloads](https://img.shields.io/github/downloads/lucasepe/kube-craft-series/total?style=flat-square&labelColor=green&label=downloads&color=fff)][1]
+
 
 Unlock the full potential of Kubernetes as I guide you through the exploration of inner structure of API objects. Whether you're a seasoned developer or just stepping into the Kubernetes universe, this book equips you with the tools to craft your custom API objects and related clients.
 
