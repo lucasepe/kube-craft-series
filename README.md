@@ -23,7 +23,7 @@ Unlock the full potential of Kubernetes as I guide you through the exploration o
 
 ---
 
-### 🚀 Appreciation Boost
+#### 🚀 Appreciation Boost
 
 Every page, diagram, and mind map is a labor of love, a product of extensive research, and a commitment to delivering content that transcends the ordinary. If you've found value in my meticulous approach to crafting knowledge, consider contributing a [one-time donation][2].
 
