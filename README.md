@@ -13,6 +13,8 @@ Each book is brimming with mind maps, acting as engaging visual companions that 
 
 Unlock the full potential of Kubernetes as I guide you through the exploration of inner structure of API objects. Whether you're a seasoned developer or just stepping into the Kubernetes universe, this book equips you with the tools to craft your custom API objects and related clients.
 
+![Vol. 1 - Mind Maps Preview](images/vol-1-preview.jpg)
+
 
 ## _(Vol. 2)_ Coming Soon: Expected Release March, 2024
 
