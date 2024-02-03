@@ -16,11 +16,6 @@ Unlock the full potential of Kubernetes as I guide you through the exploration o
 ![Vol. 1 - Mind Maps Preview](images/vol-1-preview.jpg)
 
 
-## _(Vol. 2)_ Coming Soon: Expected Release March, 2024
-
-![Relative date](https://img.shields.io/date/1705755600?style=flat-square&label=the%20title%20will%20be%20revealed%20in&labelColor=ffc300&color=fff)
-
-
 ---
 
 #### 🚀 Appreciation Boost
